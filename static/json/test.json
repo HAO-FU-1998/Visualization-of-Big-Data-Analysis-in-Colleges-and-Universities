@@ -1,0 +1,14 @@
+[
+  {
+    "name": "John Brown",
+    "age": 18,
+    "address": "New York No. 1 Lake Park",
+    "date": "2016-10-03"
+  },
+  {
+    "name": "Fu Hao",
+    "age": 21,
+    "address": "Tianjin",
+    "date": "2019-06-12"
+  }
+]
