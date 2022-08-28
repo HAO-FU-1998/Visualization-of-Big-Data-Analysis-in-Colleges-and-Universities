@@ -1,2 +1,2 @@
-# Visualization-of-Big-Data-Analysis-in-Colleges-and-Universities
- Internship Program (2019)
+# Visualization of Big Data Analysis in Colleges and Universities
+![image](7.png)
